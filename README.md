@@ -13,7 +13,7 @@ This notebook simulates a surge pricing algorithm where prices dynamically adjus
 - The firm faces diminishing returns when capacity is fully used.
 
 ## Run it on Google Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YourUserName/surge-pricing-simulation/blob/main/Surge_Pricing_Dashboard.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KaledGoatache/surge-pricing-simulation/blob/main/0SurgePricing.ipynb)
 
 
 Author : Kaled Goatache
