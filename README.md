@@ -12,4 +12,8 @@ This notebook simulates a surge pricing algorithm where prices dynamically adjus
 - Optimal alpha (α) balances responsiveness with stability.
 - The firm faces diminishing returns when capacity is fully used.
 
+## Run it on Google Colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YourUserName/surge-pricing-simulation/blob/main/Surge_Pricing_Dashboard.ipynb)
+
+
 Author : Kaled Goatache
